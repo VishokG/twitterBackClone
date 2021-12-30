@@ -8,4 +8,4 @@ The logged in user is displayed tweets of users they follow in the order they ar
  <br />
 Back-End: NodeJS+Express <br />
 Storage: Neo4j for creating relationships between tweets and users & MongoDB for registrations <br />
-Front-end: ReactJS (NOT DEVELOPED BY ME, Credits: https://github.com/CleverProgrammers/twitter-clone (A YouTuber)) (Only tweeks for connecting the two such as Axios for CORS) <br 
+Front-end: ReactJS (NOT DEVELOPED BY ME, Credits: https://github.com/CleverProgrammers/twitter-clone (A YouTuber)) (Only tweeks for connecting the two such as Axios for CORS)
