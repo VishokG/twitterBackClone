@@ -1,6 +1,3 @@
-# twitterBackClone
-
-
 Hi, This is a simple project of mine that mimicks simple core Twitter functionality: <br />
 A User is able to sign-up, login <br />
 They are able to tweet <br />
