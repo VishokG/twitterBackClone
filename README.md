@@ -1,7 +1,7 @@
 # twitterBackClone
 
 
-Hi, This is a simple project of mine that mimicks simple core Twitter functionality: 
+Hi, This is a simple project of mine that mimicks simple core Twitter functionality: <br />
 A User is able to sign-up, login 
 They are able to tweet 
 The logged in user is displayed tweets of users they follow in the order they are tweeted by time 
